@@ -1,4 +1,8 @@
-# front_end-basics
-Basic frontend development using HTML and CSS as part of my full stack learning path.
-This repository contains basic frontend development files using HTML and CSS.
-It is part of my full stack developer learning roadmap.
+# Frontend Basics
+
+This repository contains basic frontend development files:
+- HTML structure
+- CSS styling
+- JavaScript interaction
+
+Part of my Full Stack Developer learning roadmap.
